@@ -222,38 +222,3 @@ section .btntwo{
     text-align: center;
     color: #fff;
 }
-.test{
-    text-align: center;
-    color: rgb(255, 221, 0);
-}
-.utsab{
-    text-align: center;
-    border: 2px solid rgba(255, 255, 255, .5);
-    background: rgba(0, 0, 0, .5);
-
-}
-.ut{
-    border-radius: 50%;
-    color: rgb(255,221,0);
-
-}
-.uts{
-    color: #fff;
-    text-align: center;
-    border-radius: 20%;
-    
-}
-.utin{
-    color: #cb0cb2;
-    text-align: center;
-    border-radius: 20%;
-    font-size: 30px;
-    font-weight: 800;
-}
-.utfb{
-    color: rgb(4, 4, 102);
-    text-align: center;
-    border-radius: 20%;
-    font-size: 30px;
-    font-weight: 800;
-}
